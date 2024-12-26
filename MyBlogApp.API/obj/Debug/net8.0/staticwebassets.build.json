@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UczQD2uaFyZZEyiZ8sm1mJUJaM7KrIHMtVM7dUpl4wk=",
+  "Source": "MyBlogApp.API",
+  "BasePath": "_content/MyBlogApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

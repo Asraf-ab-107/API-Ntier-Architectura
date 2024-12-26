@@ -1,0 +1,17 @@
+C:\Users\I Novbe\source\repos\MyBlogApp\MyBlogApp.Business\bin\Debug\net8.0\MyBlogApp.Business.deps.json
+C:\Users\I Novbe\source\repos\MyBlogApp\MyBlogApp.Business\bin\Debug\net8.0\MyBlogApp.Business.dll
+C:\Users\I Novbe\source\repos\MyBlogApp\MyBlogApp.Business\bin\Debug\net8.0\MyBlogApp.Business.pdb
+C:\Users\I Novbe\source\repos\MyBlogApp\MyBlogApp.Business\bin\Debug\net8.0\MyBlogApp.Core.dll
+C:\Users\I Novbe\source\repos\MyBlogApp\MyBlogApp.Business\bin\Debug\net8.0\MyBlogApp.DAL.dll
+C:\Users\I Novbe\source\repos\MyBlogApp\MyBlogApp.Business\bin\Debug\net8.0\MyBlogApp.DAL.pdb
+C:\Users\I Novbe\source\repos\MyBlogApp\MyBlogApp.Business\bin\Debug\net8.0\MyBlogApp.Core.pdb
+C:\Users\I Novbe\source\repos\MyBlogApp\MyBlogApp.Business\obj\Debug\net8.0\MyBlogApp.Business.csproj.AssemblyReference.cache
+C:\Users\I Novbe\source\repos\MyBlogApp\MyBlogApp.Business\obj\Debug\net8.0\MyBlogApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I Novbe\source\repos\MyBlogApp\MyBlogApp.Business\obj\Debug\net8.0\MyBlogApp.Business.AssemblyInfoInputs.cache
+C:\Users\I Novbe\source\repos\MyBlogApp\MyBlogApp.Business\obj\Debug\net8.0\MyBlogApp.Business.AssemblyInfo.cs
+C:\Users\I Novbe\source\repos\MyBlogApp\MyBlogApp.Business\obj\Debug\net8.0\MyBlogApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\I Novbe\source\repos\MyBlogApp\MyBlogApp.Business\obj\Debug\net8.0\MyBlogAp.E8D6341E.Up2Date
+C:\Users\I Novbe\source\repos\MyBlogApp\MyBlogApp.Business\obj\Debug\net8.0\MyBlogApp.Business.dll
+C:\Users\I Novbe\source\repos\MyBlogApp\MyBlogApp.Business\obj\Debug\net8.0\refint\MyBlogApp.Business.dll
+C:\Users\I Novbe\source\repos\MyBlogApp\MyBlogApp.Business\obj\Debug\net8.0\MyBlogApp.Business.pdb
+C:\Users\I Novbe\source\repos\MyBlogApp\MyBlogApp.Business\obj\Debug\net8.0\ref\MyBlogApp.Business.dll

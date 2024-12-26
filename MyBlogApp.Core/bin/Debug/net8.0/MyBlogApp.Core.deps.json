@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MyBlogApp.Core/1.0.0": {
+        "runtime": {
+          "MyBlogApp.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyBlogApp.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
